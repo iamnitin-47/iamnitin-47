@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nitin Shinde 👋
 
-<!--
-**iamnitin-47/iamnitin-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Backend Engineer | Java | Spring Boot | APIs | Distributed Systems
 
-Here are some ideas to get you started:
+I'm a Computer Engineering undergraduate interested in building reliable,
+scalable backend systems and understanding how software works beyond the code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+- Java & Spring Boot
+- REST APIs & backend architecture
+- Data Structures & Algorithms
+- SQL & databases
+- Docker & DevOps fundamentals
+- Cloud technologies
+
+### What I'm building
+
+🔹 Backend applications with Java & Spring Boot  
+🔹 REST APIs and database-driven systems  
+🔹 Projects focused on solving real-world problems
+
+### Tech Stack
+
+Java • Spring Boot • SQL • MySQL • REST APIs • Docker • Git • GitHub
+
+### Currently learning
+
+System Design | Distributed Systems | Cloud & DevOps
+
+📫 Email: nitinshinde9834@gmail.com
